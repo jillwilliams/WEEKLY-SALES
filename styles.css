@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(22,43,112);
+    color: yellowgreen;
+    margin: 45px;
+    font-family: 'Beth Ellen', cursive;
+    letter-spacing: 5px;
+    font-size: 0.9rem;
+    text-align: center;
+}
+a {
+    color: white;
+}
+/* LINK: THE MANZANITA LINKS COURSE */
+a {
+    color: white;
+}
+a:hover {
+    color: lightblue;
+}
+a:visited {
+    color: yellowgreen;
+}
+/* LOG PICTURE IMAGE FORMATTING */
+#logPic {
+    width: 60%;
+    height: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px yellowgreen solid;
+    outline: 1px white solid;
+}
+/* IMAGE OF THE FLOWERS */
+#courseview1 {
+    width: 60%;
+    height: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px yellowgreen solid;
+    outline: 1px white solid;
+}
+/* HOURS OF SERVICE */
+#hours {
+    color: white;
+}
+/* 2nd COURSEVIEW ROUND picture */
+#courseview2 {
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 50px;
+}
+/* THE IMAGE OF THE CLIFFS OF MANZANITA */
+#courseview3 {
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 50px;
+}
+#phone {
+    width: 40%;
+    height: auto;
+    margin-top: 15px;
+
+}
+
+
+
+footer {
+    margin-top: 45px;
+}
